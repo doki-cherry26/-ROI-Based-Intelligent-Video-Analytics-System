@@ -562,6 +562,7 @@ This project demonstrates a production-grade Intelligent Video Analytics Platfor
 
 By integrating custom YOLOv7 models, RabbitMQ messaging infrastructure, Redis-based storage, and ROI-aware filtering mechanisms, the platform delivers accurate, scalable, and resource-efficient monitoring suitable for industrial safety, smart city deployments, traffic analytics, and security surveillance.
 
-The architecture emphasizes modularity, scalability, and operational efficiency, making it adaptable for both edge and cloud-based deployments.
-
-👨‍💻 Author D Charishma Data Science | AI/ML Engineer Gmail :charishmacherry442@gmail.com LinkedIn : https://www.linkedin.com/in/charishma-doki-238556311/
+# 👨‍💻 Author
+D Charishma Data Science | AI/ML Engineer
+Gmail :charishmacherry442@gmail.com 
+LinkedIn : https://www.linkedin.com/in/charishma-doki-238556311/
