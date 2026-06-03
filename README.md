@@ -105,6 +105,15 @@ The best-performing weights file:
 
 best.pt
 
+was selected based on:
+
+* mAP Score
+* Precision
+* Recall
+* Validation Loss
+
+---
+
 # 🏗️ System Architecture
 
 ## High-Level Architecture
@@ -456,16 +465,6 @@ Features:
 
 ---
 
-## Human Analytics
-
-Features:
-
-* Person Segmentation
-* Occupancy Monitoring
-* Restricted Area Detection
-
----
-
 # 🚀 Scalability Features
 
 The architecture supports horizontal scaling through:
@@ -562,12 +561,4 @@ This project demonstrates a production-grade Intelligent Video Analytics Platfor
 
 By integrating custom YOLOv7 models, RabbitMQ messaging infrastructure, Redis-based storage, and ROI-aware filtering mechanisms, the platform delivers accurate, scalable, and resource-efficient monitoring suitable for industrial safety, smart city deployments, traffic analytics, and security surveillance.
 
-# 👨‍💻 Author
-
-**D Charishma** 
-
-Data Science | AI/ML Engineer
-
-Gmail :charishmacherry442@gmail.com
-
-LinkedIn : https://www.linkedin.com/in/charishma-doki-238556311/
+The architecture emphasizes modularity, scalability, and operational efficiency, making it adaptable for both edge and cloud-based deployments.
